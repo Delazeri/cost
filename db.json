@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Teste de serviço",
+      "budget": "1550",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 220,
+      "services": [
+        {
+          "name": "Apagar",
+          "cost": "120",
+          "description": "Apaga",
+          "id": "a36c92f0-cc5b-452a-a3da-2c9fb8d25e8b"
+        },
+        {
+          "name": "Apagar 2",
+          "cost": "100",
+          "description": "Apagar",
+          "id": "ba6ebf5a-458b-4a03-939b-1bf50da8b636"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infraestrutura"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
